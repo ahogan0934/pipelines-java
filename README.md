@@ -1,4 +1,4 @@
-
+[![Build Status](https://piratessupport.visualstudio.com/Test%20Project%20for%20Azure%20DevOps%20Tutorial/_apis/build/status/ahogan0934.pipelines-java?branchName=master)](https://piratessupport.visualstudio.com/Test%20Project%20for%20Azure%20DevOps%20Tutorial/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
